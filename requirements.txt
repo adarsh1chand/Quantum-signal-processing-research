@@ -1,13 +1,29 @@
+# Quantum programming SDKs/frameworks
 pennylane
+
+# Plotting libraries
 matplotlib
+
+# Auto-diff libraries
 torch
+
+# Data visualization/manipulation libraries
 pandas
 numpy
+
+# CI: Testing
 pytest
 pytest-cov
-nbval
-pylint
+nbval  # For testing Jupyter notebooks 
+
+# CI: Lint
+pylint  
 flake8
+nbqa   # For linting Jupyter notebooks
+
+# CI: Formatting
 black
-black[jupyter]
+black[jupyter]   # For formatting Jupyter notebooks
+
+# For running notebooks
 ipython
