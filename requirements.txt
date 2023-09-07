@@ -1,0 +1,13 @@
+pennylane
+matplotlib
+torch
+pandas
+numpy
+pytest
+pytest-cov
+nbval
+pylint
+flake8
+black
+black[jupyter]
+ipython
